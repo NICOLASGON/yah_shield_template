@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name yah_shield)(type KiCad)(uri "$(KIPRJMOD)/yah_shield.pretty")(options "")(descr ""))
 )
